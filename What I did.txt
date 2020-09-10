@@ -1,0 +1,5 @@
+1 . Build-Modules-for-Information-Retrieval-Techniques   
+2 . Applying Tokenization and Stemming on the document text (Without libraries)  
+3 . Create Permuterm Index for any given word
+2 . Find out the Levenshtein distance between two words	  
+3 . Implement the SOUNDEX algorithm
